@@ -6,7 +6,7 @@
   "engines": {
     "vscode": "^1.36.0"
   },
-  "icon": "space_invaders.png",
+  "icon": "https://github.com/rafaelrozon/space-invaders/blob/master/space_invaders.png",
   "galleryBanner": {
     "color": "#4AABFC",
     "theme": "dark"
