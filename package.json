@@ -1,14 +1,28 @@
 {
   "name": "space-invaders",
-  "displayName": "Space Invaders",
-  "description": "Extensions for the modern developer",
+  "displayName": "Space Invaders Extension Pack",
+  "description": "VSCode extensions for Web Development with React.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.36.0"
   },
+  "icon": "https://github.com/rafaelrozon/space-invaders/blob/master/space_invaders.png",
+  "galleryBanner": {
+    "color": "#4AABFC",
+    "theme": "dark"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/rafaelrozon/space-invaders"
+  },
+  "bugs": {
+    "url": "https://github.com/rafaelrozon/space-invaders/issues"
+  },
+  "publisher": "Rafael Rozon",
   "categories": [
     "Extension Packs"
   ],
+  "license": "MIT",
   "extensionPack": [
     "dsznajder.es7-react-js-snippets",
     "nhoizey.gremlins",
