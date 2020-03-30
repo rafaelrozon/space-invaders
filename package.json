@@ -2,23 +2,20 @@
   "name": "space-invaders",
   "displayName": "Space Invaders Extension Pack",
   "description": "VSCode extensions for Web Development with React.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.36.0"
   },
-  "icon": "https://github.com/rafaelrozon/space-invaders/blob/master/space_invaders.png",
+  "icon": "./space_invaders.png",
   "galleryBanner": {
     "color": "#4AABFC",
     "theme": "dark"
   },
-  "repository": {
-      "type": "git",
-      "url": "https://github.com/rafaelrozon/space-invaders"
-  },
+  "repository": "https://github.com/rafaelrozon/space-invaders",
   "bugs": {
     "url": "https://github.com/rafaelrozon/space-invaders/issues"
   },
-  "publisher": "Rafael Rozon",
+  "publisher": "rafaelrozon",
   "categories": [
     "Extension Packs"
   ],
