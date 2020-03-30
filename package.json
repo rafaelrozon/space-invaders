@@ -11,6 +11,13 @@
     "color": "#4AABFC",
     "theme": "dark"
   },
+  "keywords": [
+    "javascript",
+    "typescript",
+    "css",
+    "web development",
+    "react"
+  ],
   "repository": "https://github.com/rafaelrozon/space-invaders",
   "bugs": {
     "url": "https://github.com/rafaelrozon/space-invaders/issues"
