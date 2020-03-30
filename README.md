@@ -1,7 +1,7 @@
 # Space-Invaders Extension Pack
 VSCode extensions for Web Development with React.
 
-![Image of Space Invader's Game](./resources/space_invaders.png)
+![Image of Space Invader's Game](https://github.com/rafaelrozon/space-invaders/blob/master/resources/space_invaders.png)
 
 
 Extensions in this pack:
