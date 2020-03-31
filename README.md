@@ -90,8 +90,8 @@ Extensions in this pack:
 
 ## How to install
 
-1. Open the extension pack in the VSCode Marketplace, **or**
-2. Search for XXX in the VSCode extensions panel
+1. Open the extension pack in the [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=rafaelrozon.space-invaders), **or**
+2. Search for Space Invaders in the VSCode extensions panel
 
 ## Resources
 
