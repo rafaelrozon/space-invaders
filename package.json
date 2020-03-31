@@ -2,7 +2,7 @@
   "name": "space-invaders",
   "displayName": "Space Invaders Extension Pack",
   "description": "VSCode extensions for Web Development with React.",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "engines": {
     "vscode": "^1.36.0"
   },
